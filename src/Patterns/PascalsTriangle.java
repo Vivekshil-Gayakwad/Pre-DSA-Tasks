@@ -10,6 +10,5 @@ public class PascalsTriangle {
 
         System.out.println("I will do this letter...");
 
-
     }
 }
